@@ -1,0 +1,23 @@
+.navbar{
+    background-color: white !important;
+}
+
+.navbar-brand{
+    font-size: 1.9rem !important;
+    color: rgba(40, 13, 138, 0.801) !important;
+}
+
+.navbar a{
+    font-size: 1.3rem;
+    list-style: none;
+    text-decoration: none;
+}
+
+.navbar a:hover{
+    color: rgb(156, 48, 53) !important;
+}
+
+.menu_active{
+    font-weight: bold;
+    border-bottom: 1px solid #000;
+}
